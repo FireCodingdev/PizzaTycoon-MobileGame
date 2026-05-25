@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaTycoon.Runtime", "PizzaTycoon.Runtime.csproj", "{EB37E9D9-70C1-C63A-E53A-51982BCD8738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{F33B10FC-1E9E-839A-13E0-4128E1300629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{90A1AF14-7DEF-25F7-75D4-35ED8DF1905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB37E9D9-70C1-C63A-E53A-51982BCD8738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB37E9D9-70C1-C63A-E53A-51982BCD8738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB37E9D9-70C1-C63A-E53A-51982BCD8738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB37E9D9-70C1-C63A-E53A-51982BCD8738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33B10FC-1E9E-839A-13E0-4128E1300629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33B10FC-1E9E-839A-13E0-4128E1300629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33B10FC-1E9E-839A-13E0-4128E1300629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33B10FC-1E9E-839A-13E0-4128E1300629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A1AF14-7DEF-25F7-75D4-35ED8DF1905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A1AF14-7DEF-25F7-75D4-35ED8DF1905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A1AF14-7DEF-25F7-75D4-35ED8DF1905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A1AF14-7DEF-25F7-75D4-35ED8DF1905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
